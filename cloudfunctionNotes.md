@@ -10,6 +10,7 @@ You write the function → deploy → Google runs it automatically.
 
 ⭐ When to Use Cloud Functions
 
+
 Use Cloud Functions for event-driven or small backend logic, such as:
 
 📁 File upload to Cloud Storage → process it
@@ -22,6 +23,7 @@ Use Cloud Functions for event-driven or small backend logic, such as:
 
 Great for automation, microservices, and lightweight integrations.
 
+
 🔧 How Cloud Functions Work (Simple)
 
 ✍️ Write your function (Python, Node.js, Go, Java, etc.)
@@ -33,6 +35,7 @@ Great for automation, microservices, and lightweight integrations.
 ⚡ Google runs it automatically when triggered
 
 💰 Pay only for the execution time
+
 
            ┌──────────────┐
            │   Event       │
