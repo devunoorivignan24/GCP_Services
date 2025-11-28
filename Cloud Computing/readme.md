@@ -1,5 +1,7 @@
 Cloud Computing & Google Cloud Platform (GCP)
 
+Medium Article: https://medium.com/@devunoorivignan24/%EF%B8%8F-cloud-computing-google-cloud-platform-gcp-a-beginner-friendly-overview-d6f252317be8
+
  1. What is Cloud Computing?
 
 Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet rather than using on-premise hardware.
