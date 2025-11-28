@@ -1,6 +1,6 @@
 Cloud Computing & Google Cloud Platform (GCP)
 
-    Medium Article: https://medium.com/@devunoorivignan24/%EF%B8%8F-cloud-computing-google-cloud-platform-gcp-a-beginner-friendly-overview-d6f252317be8
+Medium Article: https://medium.com/@devunoorivignan24/%EF%B8%8F-cloud-computing-google-cloud-platform-gcp-a-beginner-friendly-overview-d6f252317be8
 
  1. What is Cloud Computing?
 
@@ -11,8 +11,8 @@ Cloud computing is the delivery of computing services such as servers, storage, 
 Just as we pay Airtel/Jio for data usage instead of owning telecom infrastructure, companies also use cloud services in a pay-as-you-use model.
 
  2. Why Do We Need Cloud?
-    
-❗Before Cloud — On-Premise Challenges
+ 
+ ❗Before Cloud — On-Premise Challenges
 
      High upfront hardware cost
 
