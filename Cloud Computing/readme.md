@@ -71,6 +71,3 @@ Just as we pay Airtel/Jio for data usage instead of owning telecom infrastructur
 
 Cloud computing simplifies infrastructure management and boosts innovation speed.  
 Among cloud providers, **GCP stands out** due to its strengths in analytics, AI, and cost efficiency—making it a smart choice for modern applications.
-
-Cloud computing simplifies infrastructure management and boosts innovation speed.
-Among cloud providers, GCP stands out due to its strengths in data analytics, AI, and cost efficiency, making it a smart choice for modern applications.
